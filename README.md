@@ -1,5 +1,5 @@
-# XtreamPlatform
-<img src="https://github.com/XtreamPlatform/XtreamPlatform-Addoms/blob/master/Xtream-Addons.jpg?raw=true">
+# XtreamPlatform Decoded
+<img src="https://github.com/FirezYT/Xtream-Addons/blob/master/Xtream-Addons.jpg?raw=true">
 
 Xtream Codes Platform Installer on Ubuntu 16 18 19
 
@@ -30,12 +30,12 @@ MySQL-5.5.62 Installer:
    
 ubuntu 14 :  
 
-      apt update && apt-get install php5 && apt-get install iptables-persistent && apt-get install openvpn -y && wget https://raw.githubusercontent.com/XtreamPlatform/Xtream-Addons/master/xtreamplatform.php && php xtreamplatform.php
+      apt update && apt-get install php5 && apt-get install iptables-persistent && apt-get install openvpn -y && wget https://raw.githubusercontent.com/FirezYT/Xtream-Addons/master/xtreamplatform.php && php xtreamplatform.php
 
 
 ubuntu 16,18,19 : 
 
-      apt update && apt-get install php && apt-get install iptables-persistent && apt-get install openvpn -y && wget https://raw.githubusercontent.com/XtreamPlatform/Xtream-Addons/master/xtreamplatform.php && php xtreamplatform.php
+      apt update && apt-get install php && apt-get install iptables-persistent && apt-get install openvpn -y && wget https://raw.githubusercontent.com/FirezYT/Xtream-Addons/master/xtreamplatform.php && php xtreamplatform.php
       
 Restart: 
 
@@ -47,12 +47,4 @@ Type a message
 
 
 # License
-
-### The panel is free one day for testing
-
-### To use this panel.You must donate 33 Euro monthly to the project
-
-# To enable the license
-#### Send your ip address a message from Skype
-##### SKYPE ID:    live:.cid.e5c50309871663d0
-##### SKYPE GROUP: https://join.skype.com/gcpiNICkIpAM
+fuck them. im going to crack it
